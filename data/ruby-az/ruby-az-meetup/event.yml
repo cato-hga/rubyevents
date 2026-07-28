@@ -1,0 +1,16 @@
+---
+id: "ruby-az-meetup"
+title: "Ruby::AZ Meetup"
+location: "Phoenix, AZ, United States"
+timezone: "America/Phoenix"
+kind: "meetup"
+description: |-
+  The Phoenix Ruby User group is a monthly meeting for Ruby enthusiasts in the Phoenix metropolitan area.
+website: "https://www.meetup.com/ruby-az"
+meetup: "https://www.meetup.com/ruby-az/"
+banner_background: "#FFFFFF"
+featured_background: "#FFFFFF"
+featured_color: "#000000"
+coordinates:
+  latitude: 33.44
+  longitude: -112.03

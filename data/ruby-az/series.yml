@@ -1,0 +1,9 @@
+---
+id: "ruby-az"
+name: "Ruby::AZ"
+website: "https://www.meetup.com/ruby-az"
+kind: "meetup"
+frequency: "monthly"
+language: "English"
+default_country_code: "US"
+meetup: "https://www.meetup.com/ruby-az/"
